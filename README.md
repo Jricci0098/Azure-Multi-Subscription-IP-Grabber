@@ -6,12 +6,10 @@ A PowerShell script to retrieve public and private IP addresses from all subscri
 
 - PowerShell 5.1 or later
 - Azure PowerShell module
-  ```bash
-  Install-Module -Name Az -AllowClobber -Scope CurrentUser```
+  ```Install-Module -Name Az -AllowClobber -Scope CurrentUser```
 
 - AzureAD module for login authentication
-  ```bash
-  Install-Module -Name AzureAD -Scope CurrentUser```
+  ```Install-Module -Name AzureAD -Scope CurrentUser```
 
 ## Script Overview
 
