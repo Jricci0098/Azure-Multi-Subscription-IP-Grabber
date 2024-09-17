@@ -27,9 +27,7 @@ The script performs the following tasks:
 2. Download the script or clone the repository.
 3. Open PowerShell and navigate to the directory where the script is saved.
 4. Run the script:
-   ```bash
-   .\Get-AzureIPs.ps1
-```
+   ```.\Get-AzureIPs.ps1```
 5. After running the script, you will be prompted to provide the following details:
 - Azure Username: Enter your Azure account username.
 - Password: Enter your account password (this will be secured as a SecureString input).
